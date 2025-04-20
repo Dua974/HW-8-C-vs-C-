@@ -35,5 +35,5 @@ To make sure output was correct in both versions and to check if it gives same a
 
 ##SCREENSHOT: 
 
-![Execution Screenshot](
+![Execution Screenshot](Screen Shot 2025-04-19 at 9.06.11 PM.png) 
 
